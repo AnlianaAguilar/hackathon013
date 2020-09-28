@@ -1,0 +1,13 @@
+.MenuBotton{
+    display: flex;
+    flex-flow: column nowrap; 
+
+}
+    a {
+        text-decoration: none;
+    }
+    
+    .MenuBottonChild{
+        display: flex;
+        text-align: center;
+    }

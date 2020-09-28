@@ -1,0 +1,30 @@
+.Padre{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.header1{
+    flex: 0 1 auto;
+    align-items: center;
+}
+.header2{
+    flex: 1 1 auto;
+    align-items: center;
+}
+.header3{
+    flex: 0 1 auto;
+    align-items: center;
+}
+.header4{
+    flex: 0 1 auto;
+    align-items: center;
+}
+.header5{
+    flex: 0 1 auto;
+    align-items: center;
+}
+.header6{
+    flex: 0 1 auto;
+    align-items: center;
+}
